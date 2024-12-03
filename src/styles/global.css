@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(135deg, #66ccff, #292f49);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    overflow: hidden;
+    }
+
+:root{
+    --corPrincipal: #fff;
+    --corFundoContainer: #eaecf1;
+    --corDestaque: #0f5894;
+    --corBordaInput: #9abfd6;
+    --corBotao1: #5d6dd3;
+    --corBotao2: #2c87d1;
+    --corTabela: #638eaf;
+    --corTabelaRowEven: #bfe2ee;
+    --corTextoResult: #000;
+}
